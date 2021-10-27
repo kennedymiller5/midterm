@@ -1,0 +1,28 @@
+/*font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display', serif;*/
+
+#content {
+    margin: 0 auto;
+    width: 65%;
+}
+
+.topper h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+}
+
+.topper h4 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.topper h5 {
+    font-size: 15px;
+    font-weight: normal;
+    color: grey;
+}
+
+body {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
