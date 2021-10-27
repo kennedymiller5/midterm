@@ -58,7 +58,11 @@ h1 {
     font-size: 20px;
 }
 
-.related-item p {
+#related-item {
+    font-style: italic;
+}
+
+#related-item2 {
     font-style: italic;
 }
 
@@ -98,6 +102,7 @@ blockquote {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 200px;
 }
 
 .church-diagram {
